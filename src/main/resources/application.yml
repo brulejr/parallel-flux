@@ -1,0 +1,5 @@
+todo:
+  baseUrl: https://jsonplaceholder.typicode.com
+  parallelThreadPool:
+    prefix: todo-parallel
+    size: 5
